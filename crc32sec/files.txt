@@ -1,0 +1,3 @@
+\program\	- Sample program that uses sectional CRC32 protection
+\applycrc\	- Calculates the checksum and writes it to the end of the file. 
+\program\myprog.exe - Compiled program that uses the protection, with the 8-byte CRC32 checksum appended. 
